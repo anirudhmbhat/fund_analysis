@@ -1,0 +1,4 @@
+auth_token.txt
+__pycache__
+*.pyc
+fund_*.csv
